@@ -1,0 +1,16 @@
+name: flutter_inappwebview_plus_workspace
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+workspace:
+  - dev_packages/flutter_inappwebview_internal_annotations
+  - dev_packages/generators
+  - flutter_inappwebview_plus
+  - flutter_inappwebview_plus_android
+  - flutter_inappwebview_plus_ios
+  - flutter_inappwebview_plus_macos
+  - flutter_inappwebview_plus_platform_interface
+  - flutter_inappwebview_plus_web
+  - flutter_inappwebview_plus_windows

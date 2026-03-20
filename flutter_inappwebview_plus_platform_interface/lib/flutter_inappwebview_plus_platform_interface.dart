@@ -1,0 +1,3 @@
+library flutter_inappwebview_plus_platform_interface;
+
+export 'flutter_inappwebview_platform_interface.dart';
