@@ -20,7 +20,7 @@ resolution: workspace
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview_plus_platform_interface: ^1.3.0
+  flutter_inappwebview_plus_platform_interface: ^1.4.0
 
 dev_dependencies:
   flutter_test:
