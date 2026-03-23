@@ -1,9 +1,7 @@
 name: flutter_inappwebview_plus_platform_interface
 description: A common platform interface for the flutter_inappwebview_plus plugin.
-version: 1.3.0+1
-homepage: https://inappwebview.dev/
-repository: https://github.com/pichillilorenzo/flutter_inappwebview/tree/master/flutter_inappwebview_plus_platform_interface
-issue_tracker: https://github.com/pichillilorenzo/flutter_inappwebview/issues
+version: 1.4.0
+homepage: https://github.com/HanQiGod/flutter_inappwebview_plus/tree/main/flutter_inappwebview_plus_platform_interface
 funding:
   - https://inappwebview.dev/donate/
 topics:

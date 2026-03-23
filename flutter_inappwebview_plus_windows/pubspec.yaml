@@ -1,9 +1,7 @@
 name: flutter_inappwebview_plus_windows
 description: Windows implementation of the flutter_inappwebview_plus plugin.
-version: 0.6.0
-homepage: https://inappwebview.dev/
-repository: https://github.com/pichillilorenzo/flutter_inappwebview/tree/master/flutter_inappwebview_plus_windows
-issue_tracker: https://github.com/pichillilorenzo/flutter_inappwebview/issues
+version: 1.0.0
+homepage: https://github.com/HanQiGod/flutter_inappwebview_plus/tree/main/flutter_inappwebview_plus_windows
 funding:
   - https://inappwebview.dev/donate/
 topics:

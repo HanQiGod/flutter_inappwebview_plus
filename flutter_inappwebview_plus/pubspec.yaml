@@ -1,7 +1,7 @@
 name: flutter_inappwebview_plus
 description: Flutter 升级 3.35.7 之后，对 flutter_inappwebview 插件的升级（After the Flutter upgrade to 3.35.7, the upgrade of the flutter_inappwebview plugin）。
 version: 6.2.0
-homepage: https://github.com/HanQiGod/flutter_inappwebview_plus
+homepage: https://github.com/HanQiGod/flutter_inappwebview_plus/tree/main/flutter_inappwebview_plus
 funding:
   - https://inappwebview.dev/donate/
 topics:
